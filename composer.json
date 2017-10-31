@@ -1,5 +1,5 @@
 {
-    "name": "wx/pay",
+    "name": "wxcf/pay",
     "type": "library",
     "require-dev": {
     },
