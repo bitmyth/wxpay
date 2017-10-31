@@ -1,5 +1,5 @@
 {
-    "name": "wxcf/pay",
+    "name": "bitmyth/wxpay",
     "type": "library",
     "require-dev": {
     },
