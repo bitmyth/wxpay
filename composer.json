@@ -3,7 +3,10 @@
     "type": "library",
     "require-dev": {
     },
-    "minimum-stability": "stable",
+    "keywords" : [
+	    "bitmyth",
+	    "wxpay"
+    ],
     "require" : {
 	    "php" : ">=5.6.0"
     },
