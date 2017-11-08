@@ -5,7 +5,8 @@
     },
     "keywords" : [
 	    "bitmyth",
-	    "wxpay"
+	    "wxpay",
+	    "pay"
     ],
     "require" : {
 	    "php" : ">=5.6.0"
