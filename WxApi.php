@@ -6,7 +6,7 @@
  * Time: 下午5:10
  */
 
-namespace App\Http\Wechat;
+namespace Wechat;
 
 use App\Http\Util\Curl;
 use App\Models\Setting;
