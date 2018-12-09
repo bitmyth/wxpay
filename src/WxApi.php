@@ -8,7 +8,6 @@
 
 namespace Wechat;
 
-use App\Http\Util\Curl;
 use App\Models\Setting;
 use Closure;
 use Illuminate\Support\Facades\Log;
